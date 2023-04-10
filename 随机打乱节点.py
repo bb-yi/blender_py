@@ -28,3 +28,5 @@ for i, node1 in enumerate(selected_nodes):
 
 # 更新节点树
 mat.node_tree.nodes.update()
+
+#测试
